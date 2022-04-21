@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BigNotify.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>9EE5CB8402508E62CD963689F6FF40D92A0797A2</string>
+				<key>dateExpires</key>
+				<string>4/21/23</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>MJJ2CQ778M.com.chrcarn.bignotify</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>MJJ2CQ778M</string>
+				<key>com.apple.security.application-groups</key>
+				<array>
+					<string>group.chrcarn.bignotify</string>
+				</array>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>BigNotify.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c0e2ee00-25d0-4679-9478-11125c5461f7</string>
+				<key>dateExpires</key>
+				<string>4/21/23</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.chrcarn.bignotify</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>MJJ2CQ778M</string>
+				<key>name</key>
+				<string>Christopher Carney</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
